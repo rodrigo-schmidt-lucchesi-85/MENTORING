@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<minder version="1.8.0">
+  <theme name="default" label="Default" index="0"/>
+  <styles>
+    <style level="0" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="1" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="2" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="3" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="4" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="5" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="6" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="7" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="8" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="9" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="10" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+  </styles>
+  <drawarea x="558.99999999999977" y="227.49999999999955" scale="1"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="-88.999999999999545" posy="162.50000000000043" maxwidth="200" width="158" height="78" side="left" fold="false" treesize="1368.9999999999995" layout="Horizontal">
+      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <formatting/>
+      <nodename>Data Science Python</nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="1" posx="169" posy="175.00000000000043" maxwidth="200" width="100" height="53" side="right" fold="false" treesize="1368.9999999999995" color="#c6262e" colorroot="false" layout="Horizontal">
+          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <formatting/>
+          <nodename>Divis&#xE3;o</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="2" posx="369" posy="-482.99999999999955" maxwidth="200" width="149" height="53" side="right" fold="false" treesize="53" color="#c6262e" colorroot="false" layout="Horizontal">
+              <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Revis&#xE3;o GIT</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="33" posx="369" posy="72.000000000000114" maxwidth="200" width="28" height="53" side="right" fold="false" treesize="1057" color="#c6262e" colorroot="true" layout="Horizontal">
+              <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename></nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="3" posx="497" posy="59.500000000000114" maxwidth="200" width="160" height="78" side="right" fold="false" treesize="1057" color="#c6262e" colorroot="false" layout="Horizontal">
+                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Python Crash Course</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="5" posx="757" posy="-429.99999999999989" maxwidth="200" width="168" height="78" side="right" fold="false" treesize="78" color="#c6262e" colorroot="false" layout="Horizontal">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>Declara&#xE7;&#xE3;o de vari&#xE1;veis</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="6" posx="757" posy="-219.49999999999989" maxwidth="200" width="202" height="53" side="right" fold="false" treesize="318" color="#c6262e" colorroot="false" layout="Horizontal">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>Tipos de vari&#xE1;veis</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="13" posx="1059" posy="-351.99999999999989" maxwidth="200" width="55" height="53" side="right" fold="false" treesize="53" color="#c6262e" colorroot="false" layout="Horizontal">
+                          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>list</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="14" posx="1059" posy="-298.99999999999989" maxwidth="200" width="75" height="53" side="right" fold="false" treesize="53" color="#c6262e" colorroot="false" layout="Horizontal">
+                          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>tuple</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="15" posx="1059" posy="-245.99999999999989" maxwidth="200" width="121" height="53" side="right" fold="false" treesize="53" color="#c6262e" colorroot="false" layout="Horizontal">
+                          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>dictionary</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="16" posx="1059" posy="-192.99999999999989" maxwidth="200" width="68" height="53" side="right" fold="false" treesize="53" color="#c6262e" colorroot="false" layout="Horizontal">
+                          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>json</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="17" posx="1059" posy="-139.99999999999989" maxwidth="200" width="101" height="53" side="right" fold="false" treesize="53" color="#c6262e" colorroot="false" layout="Horizontal">
+                          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>number</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="18" posx="1059" posy="-86.999999999999886" maxwidth="200" width="81" height="53" side="right" fold="false" treesize="53" color="#c6262e" colorroot="false" layout="Horizontal">
+                          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>string</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="7" posx="757" posy="5.0000000000001137" maxwidth="200" width="185" height="53" side="right" fold="false" treesize="131" color="#c6262e" colorroot="false" layout="Horizontal">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>IF, FOR, WHILE</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="20" posx="1042" posy="-33.999999999999886" maxwidth="200" width="164" height="78" side="right" fold="false" treesize="78" color="#c6262e" colorroot="false" layout="Horizontal">
+                          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>como fazer as opera&#xE7;&#xF5;es</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="21" posx="1042" posy="44.000000000000114" maxwidth="200" width="96" height="53" side="right" fold="false" treesize="53" color="#c6262e" colorroot="false" layout="Horizontal">
+                          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>Pr&#xE1;tica</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="8" posx="757" posy="150.00000000000011" maxwidth="200" width="97" height="53" side="right" fold="false" treesize="159" color="#c6262e" colorroot="false" layout="Horizontal">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>Numpy</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="22" posx="954" posy="97.000000000000114" maxwidth="200" width="155" height="53" side="right" fold="false" treesize="53" color="#c6262e" colorroot="false" layout="Horizontal">
+                          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>Como utilizar</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="23" posx="954" posy="150.00000000000011" maxwidth="200" width="174" height="53" side="right" fold="false" treesize="53" color="#c6262e" colorroot="false" layout="Horizontal">
+                          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>Quando utilizar</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="24" posx="954" posy="203.00000000000011" maxwidth="200" width="96" height="53" side="right" fold="false" treesize="53" color="#c6262e" colorroot="false" layout="Horizontal">
+                          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>Pr&#xE1;tica</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="9" posx="757" posy="309.00000000000011" maxwidth="200" width="102" height="53" side="right" fold="false" treesize="159" color="#c6262e" colorroot="false" layout="Horizontal">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>Pandas</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="25" posx="959" posy="256.00000000000011" maxwidth="200" width="155" height="53" side="right" fold="false" treesize="53" color="#c6262e" colorroot="false" layout="Horizontal">
+                          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>Como utilizar</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="26" posx="959" posy="309.00000000000011" maxwidth="200" width="174" height="53" side="right" fold="false" treesize="53" color="#c6262e" colorroot="false" layout="Horizontal">
+                          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>Quando utilizar</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="27" posx="959" posy="362.00000000000011" maxwidth="200" width="96" height="53" side="right" fold="false" treesize="53" color="#c6262e" colorroot="false" layout="Horizontal">
+                          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>Pr&#xE1;tica</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="10" posx="757" posy="468.00000000000011" maxwidth="200" width="227" height="53" side="right" fold="false" treesize="159" color="#c6262e" colorroot="false" layout="Horizontal">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>Matplotlib e Seaborn</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="28" posx="1084" posy="415.00000000000011" maxwidth="200" width="155" height="53" side="right" fold="false" treesize="53" color="#c6262e" colorroot="false" layout="Horizontal">
+                          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>Como utilizar</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="29" posx="1084" posy="468.00000000000011" maxwidth="200" width="178" height="53" side="right" fold="false" treesize="53" color="#c6262e" colorroot="false" layout="Horizontal">
+                          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>Quando Utilizar</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="30" posx="1084" posy="521.00000000000011" maxwidth="200" width="96" height="53" side="right" fold="false" treesize="53" color="#c6262e" colorroot="false" layout="Horizontal">
+                          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>Pr&#xE1;tica</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="11" posx="757" posy="574.00000000000011" maxwidth="200" width="132" height="53" side="right" fold="false" treesize="53" color="#c6262e" colorroot="false" layout="Horizontal">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>SKLEARN</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+            <node id="4" posx="369" posy="691" maxwidth="200" width="130" height="78" side="right" fold="false" treesize="206" color="#c6262e" colorroot="false" layout="Horizontal">
+              <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Atividades requeridas</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="31" posx="599" posy="627.00000000000011" maxwidth="200" width="177" height="78" side="right" fold="false" treesize="78" color="#c6262e" colorroot="false" layout="Horizontal">
+                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Realiza&#xE7;&#xE3;o das atividades</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="32" posx="599" posy="705" maxwidth="200" width="193" height="128" side="right" fold="false" treesize="128" color="#c6262e" colorroot="false" layout="Horizontal">
+                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Utiliza&#xE7;&#xE3;o das habilidades adquiridas com o que foi proposto</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="34" posx="369" posy="833" maxwidth="200" width="113" height="53" side="right" fold="false" treesize="53" color="#c6262e" colorroot="false" layout="Horizontal">
+              <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Desafios</nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+</minder>
