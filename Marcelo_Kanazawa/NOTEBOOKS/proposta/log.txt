@@ -1,0 +1,124 @@
+0.407413    10
+0.407411    10
+0.608827     6
+0.407412     4
+0.211095     3
+            ..
+0.434966     1
+0.467172     1
+0.250653     1
+0.251828     1
+0.748072     1
+Name: juros_efet, Length: 463, dtype: int64
+AA    160
+A     152
+C      92
+B      71
+D      12
+H       6
+F       2
+G       1
+Name: rating_operacao, dtype: int64
+B     208
+D      83
+A      68
+C      67
+E      50
+AA     17
+H       3
+Name: rating_cliente, dtype: int64
+Região Metropolitana de São Paulo    158
+RA de Campinas                       104
+RA de Sorocaba                        40
+RA de São José dos Campos             36
+RA de Ribeirão Preto                  32
+RA Central                            18
+RA de São José do Rio Preto           18
+RA de Marília                         16
+RA de Bauru                           15
+RA de Araçatuba                       14
+OUTRAS                                13
+RA de Barretos                        13
+RA de Santos                           8
+RA de Presidente Prudente              6
+RA de Franca                           3
+RA de Registro                         2
+Name: ra, dtype: int64
+MÉDIA           175
+PEQUENA         122
+MICRO            96
+MÉDIA-GRANDE     52
+GRANDE           51
+Name: porte, dtype: int64
+SETOR PRIVADO    381
+SETOR PÚBLICO    115
+Name: setor, dtype: int64
+ADIMPLENTE      490
+INADIMPLENTE      6
+Name: situacao, dtype: int64
+AA    184
+A     145
+B      72
+C      43
+D      20
+E      17
+H       7
+F       6
+G       2
+Name: rating_atual, dtype: int64
+INOVACRED                  115
+FIP                         92
+LEV                         66
+VIA SP                      56
+AUTOMÁTICO INVESTIMENTO     44
+LDI                         22
+BNDES SAÚDE                 21
+LIT                         15
+LIE - PRIVADO               15
+LVM                         10
+MPME INOVADORA               6
+BNDES PMAT                   6
+LAM                          5
+FUNGETUR                     5
+LAL                          4
+LIE - PÚBLICO                4
+LIP                          4
+LIM                          3
+LDA                          1
+LVR                          1
+INOVACRED EXPRESSO           1
+Name: linha_fin, dtype: int64
+PI    496
+Name: tipo_a, dtype: int64
+RP    298
+RT    198
+Name: tipo_b, dtype: int64
+PRIV    381
+PÚBL    115
+Name: tipo_c, dtype: int64
+REC. PRÓPRIOS    298
+FINEP            116
+BNDES             77
+FUNGETUR           5
+Name: tipo_d, dtype: int64
+Cessão Dir. Credit - Trib e Receitas        115
+Alienação Fiduciária Imóvel                 114
+Alienação Fiduciária Imóvel Residencial      62
+FDA                                          33
+Alienação Fiduciária - Bens Móveis           28
+Cessão Fiduciária - Direitos creditórios     21
+SUS - Direito de crédito                     21
+Gar Fidejussória Fiança Bancária             18
+Hipoteca 1º Grau                             16
+FGO                                          13
+CDB - Certificado de Depósito Bancário       11
+FGI - Crédito Livre                          10
+Hipoteca - Outros Graus                       8
+Alienação Fiduciária Imóveis - Evolutiva      7
+Hipoteca 1º grau Imov Residencial             6
+Alienação Fiduciaria Veículos                 5
+FAMPE                                         3
+FGI                                           3
+Alien Fiduc - RDME                            1
+Interveniente                                 1
+Name: garantia, dtype: int64
